@@ -1,11 +1,8 @@
-# Prueba_diagnostica_LyC
-Prueba diagnostica de la materia Lenguajes y compiladores
-
 # Guía de Instalación y Ejecución de Códigos
 
 ## Requisitos Previos
 
-Para ejecutar los códigos proporcionados, necesitarás tener instalado Python en tu sistema. A continuación, se detallan los pasos para instalar Python y ejecutar los scripts.
+Para ejecutar los códigos, necesitarás tener instalado Python en tu sistema. A continuación, se detallan los pasos para instalar Python y ejecutar los scripts.
 
 ### Instalación de Python
 
@@ -34,7 +31,7 @@ Este script cuenta la cantidad de números reales en una cadena que cumplen con 
 
 1. **Navegar al Directorio**:
    - Abre una terminal o línea de comandos.
-   - Navega al directorio donde se encuentra el script:
+   - Navega al directorio donde se encuentra el script: (es un ejemplo)
      ```sh
      cd /c:/Users/mmfro/OneDrive/Documentos/7to semestre/Lenguajes/Codigos/Prueba diagnostica/
      ```
@@ -51,7 +48,7 @@ Este script evalúa expresiones en notación científica y realiza operaciones m
 
 1. **Navegar al Directorio**:
    - Abre una terminal o línea de comandos.
-   - Navega al directorio donde se encuentra el script:
+   - Navega al directorio donde se encuentra el script: (es un ejemplo)
      ```sh
      cd /c:/Users/mmfro/OneDrive/Documentos/7to semestre/Lenguajes/Codigos/Prueba diagnostica/
      ```
@@ -68,7 +65,7 @@ Este script cuenta la cantidad de palabras reservadas en un fragmento de código
 
 1. **Navegar al Directorio**:
    - Abre una terminal o línea de comandos.
-   - Navega al directorio donde se encuentra el script:
+   - Navega al directorio donde se encuentra el script: (es un ejemplo)
      ```sh
      cd /c:/Users/mmfro/OneDrive/Documentos/7to semestre/Lenguajes/Codigos/Prueba diagnostica/
      ```
@@ -78,7 +75,5 @@ Este script cuenta la cantidad de palabras reservadas en un fragmento de código
      ```sh
      python "03. cadena_palabras_reservadas.py"
      ```
-
-## Conclusión
 
 Siguiendo estos pasos, podrás instalar Python y ejecutar los scripts proporcionados para realizar las tareas específicas descritas en cada uno. Si tienes alguna pregunta o encuentras algún problema, no dudes en buscar ayuda en la documentación oficial de Python o en foros de programación.
